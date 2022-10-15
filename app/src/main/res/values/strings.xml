@@ -2,4 +2,6 @@
     <string name="app_name">DadJoke1</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_try_again">Error, try again</string>
+    <string name="cant_find_joke">We cant find this joke, try again</string>
 </resources>
